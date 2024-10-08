@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2c63e3ba153e1a8ded09.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleLoginApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleLoginApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleLoginApp-Debug-b8688f774857b368cd59.json",
+					"name" : "SimpleLoginApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleLoginApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleLoginApp_autogen-Debug-30b60a848ff160fe117e.json",
+					"name" : "SimpleLoginApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleLoginApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleLoginApp_autogen_timestamp_deps-Debug-a4bf5ff903000e390994.json",
+					"name" : "SimpleLoginApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Sharework/Udemy/Homeworks/QtFramework/Project/SimpleLoginApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "D:/Sharework/Udemy/Homeworks/QtFramework/Project/SimpleLoginApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,18 @@
+# ninja log v6
+49	813	7497210731559746	SimpleLoginApp_autogen/timestamp	e136e6ac5ed9fe1c
+49	813	7497210731559746	D:/Sharework/Udemy/Homeworks/QtFramework/Project/SimpleLoginApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SimpleLoginApp_autogen/timestamp	e136e6ac5ed9fe1c
+49	813	7497210731559746	SimpleLoginApp_autogen/mocs_compilation.cpp	e136e6ac5ed9fe1c
+49	813	7497210731559746	D:/Sharework/Udemy/Homeworks/QtFramework/Project/SimpleLoginApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SimpleLoginApp_autogen/mocs_compilation.cpp	e136e6ac5ed9fe1c
+814	2908	7497210732916727	CMakeFiles/SimpleLoginApp.dir/SimpleLoginApp_autogen/mocs_compilation.cpp.obj	18b9988494675b0c
+834	2988	7497210733127411	CMakeFiles/SimpleLoginApp.dir/main.cpp.obj	1431e671309d1c2d
+860	3196	7497210733385168	CMakeFiles/SimpleLoginApp.dir/dialog.cpp.obj	89a1b155a9117481
+3197	3485	7497210756749747	SimpleLoginApp.exe	bc429900c5264a32
+58	959	7497216934418103	SimpleLoginApp_autogen/timestamp	e136e6ac5ed9fe1c
+58	959	7497216934418103	SimpleLoginApp_autogen/mocs_compilation.cpp	e136e6ac5ed9fe1c
+58	959	7497216934418103	D:/Sharework/Udemy/Homeworks/QtFramework/Project/SimpleLoginApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SimpleLoginApp_autogen/timestamp	e136e6ac5ed9fe1c
+58	959	7497216934418103	D:/Sharework/Udemy/Homeworks/QtFramework/Project/SimpleLoginApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SimpleLoginApp_autogen/mocs_compilation.cpp	e136e6ac5ed9fe1c
+960	2977	7497216935782543	CMakeFiles/SimpleLoginApp.dir/SimpleLoginApp_autogen/mocs_compilation.cpp.obj	18b9988494675b0c
+989	2988	7497216936077504	CMakeFiles/SimpleLoginApp.dir/main.cpp.obj	1431e671309d1c2d
+1036	3018	7497216936540873	CMakeFiles/SimpleLoginApp.dir/lobbydialog.cpp.obj	e3cc1377d35f6de8
+1013	3168	7497216936309924	CMakeFiles/SimpleLoginApp.dir/dialog.cpp.obj	89a1b155a9117481
+3168	3528	7497216957865639	SimpleLoginApp.exe	4e5b28f3554805bb
